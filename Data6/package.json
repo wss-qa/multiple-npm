@@ -1,0 +1,16 @@
+{
+  "name": "ptr-model",
+  "version": "0.0.1",
+  "description": "Pointer model degsigned for Arweave data storage",
+  "main": "index.js",
+  "repository": "https://github.com/AyakaLab/ptr-model.git",
+  "author": "Ayaka Neko <neko@ayaka.moe>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "atom-package-dependencies": "*",
+    "jquery": "*",
+    "loophole": "*",
+    "tern": "git+https://github.com/marijnh/tern.git",
+    "underscore-plus": "*"
+  }
+}

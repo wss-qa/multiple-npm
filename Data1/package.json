@@ -1,0 +1,10 @@
+{
+  "name": "npm-workspaces-demo",
+  "version": "1.0.0",
+  "author": "Muhammad Abu Elula",
+  "license": "MIT",
+  "workspaces": [
+    "./packages/package-a",
+    "./packages/package-b"
+  ]
+}

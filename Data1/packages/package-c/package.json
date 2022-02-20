@@ -1,0 +1,10 @@
+{
+    "name": "package-c",
+    "private": true,
+    "version": "1.0.0",
+    "dependencies": {
+      "package-a": "1.0.0",
+      "log4js": "6.3.0"
+    }
+  }
+  
