@@ -9,6 +9,6 @@
   "author": "Ameer",
   "license": "ISC",
   "dependencies": {
-    "express": "4.15.5"
+    "express": "4.17.0"
   }
 }
